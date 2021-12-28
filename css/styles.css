@@ -1,0 +1,126 @@
+/*****************TAG SELECTORS**********************/
+body{
+  font-family: 'Outfit', sans-serif;
+}
+
+h2{
+  font-family: 'Outfit', sans-serif;
+  font-size: 1rem;
+  font-weight: 500;
+  color: #FFFFFF;
+  color: hsl(0, 0%, 100%);
+}
+
+h4{
+  font-size: .75rem;
+  font-weight: 200;
+  color: #8BACDA;
+  color: hsla(215, 51%, 70%,.5);
+  line-height: 1.5;
+}
+
+hr {
+    border-color: #8BACDA;
+    border-color: hsla(215, 51%, 70%,.25);
+    margin-bottom: 15px;
+    height: 0;
+    width: 100%;
+  }
+
+/*****************CLASS SELECTORS**********************/
+.avatar-image{
+  float: left;
+  width: 15%;
+  border-style: solid;
+  border-width: thin;
+  border-radius: 100px;
+  border-color: #FFFFFF;
+  border-color: hsl(0, 0%, 100%);
+}
+.body-container{
+  background-color: #FFFFFF;
+  background-color: hsl(0, 0%, 100%);
+  margin: 100px auto 100px auto;
+  padding: 10px 10px;
+}
+
+.bottom-container{
+  margin-top: 10px;
+  margin-bottom: 50px;
+}
+
+.content-container{
+  background-color: #0D192B;
+  background-color: hsl(217, 54%, 11%);
+  margin: 100px auto 100px auto;
+  padding: 20px 20px;
+  width: 90%;
+}
+
+.creation-text{
+  color: #FFFFFF;
+  color: hsl(0, 0%, 100%);
+  font-size: .75rem;
+  margin-left: 10px;
+  margin-top: 10px;
+  float: left;
+}
+
+.creation-decoration{
+  color: #8BACDA;
+  color: hsla(215, 51%, 70%,.5);
+  margin-right: 3px;
+}
+
+.equilibrium{
+  max-width: 100%;
+  border-radius: 5px;
+}
+
+.footer{
+  text-align: center;
+}
+
+.nft-container{
+  background-color: #14253D;
+  background-color: hsl(216, 50%, 16%);
+  margin: 100px auto 100px auto;
+  padding: 20px 20px;
+  position: relative;
+  border-radius: 10px;
+  width: 25%;
+}
+
+.nft-table{
+  color: #800FFF7;
+  color: hsl(178, 100%, 50%);
+  border-collapse: separate;
+  border-spacing: 25px;
+}
+
+.table-text1{
+  margin-right: 20px;
+  font-size: .75rem;
+  font-weight: 300;
+}
+
+.table-text2{
+  color: #8BACDA;
+  color: hsla(215, 51%, 70%,.5);
+  font-family: 'Outfit', sans-serif;
+  font-size: .75rem;
+  font-weight: 500;
+}
+
+.table-favicon1{
+  margin-right: 3px;
+}
+
+.table-favicon2{
+  margin-left: 50px;
+  color: #2F415B;
+  color: hsl(215, 32%, 27%);
+}
+
+
+/*****************ID SELECTORS**********************/
